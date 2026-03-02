@@ -1,4 +1,4 @@
-```class uc4 {
+class uc4 {
     public static void main(String args[]) {
 
         String[] lines = new String[7];
@@ -13,4 +13,4 @@
 		System.out.println(line);
     }
 }
-}```
+}
